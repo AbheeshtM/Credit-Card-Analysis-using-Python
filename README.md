@@ -1,4 +1,4 @@
-Credit Card Analysis using Python
+# Heading 1 Credit Card Analysis using Python
 
 This project focuses on analyzing credit card data using Python's Pandas library and visualizing insights through Matplotlib graphs.
 Overview

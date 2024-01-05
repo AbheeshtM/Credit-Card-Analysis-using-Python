@@ -1,4 +1,4 @@
-# Heading 1 Credit Card Analysis using Python
+# Credit Card Analysis using Python
 
 This project focuses on analyzing credit card data using Python's Pandas library and visualizing insights through Matplotlib graphs.
 Overview
@@ -12,13 +12,13 @@ To run this project, ensure you have the following dependencies installed:
     Pandas
     Matplotlib
 
-Install the necessary packages via pip:
+### Install the necessary packages via pip:
 
 bash
 
 pip install pandas matplotlib
 
-Usage
+### Usage
 
     Clone the Repository:
 
@@ -27,11 +27,11 @@ Usage
 git clone https://github.com/yourusername/credit-card-analysis.git
 cd credit-card-analysis
 
-Install Dependencies:
+### Install Dependencies:
 
 Ensure the required packages are installed as mentioned above.
 
-Run the Analysis:
+### Run the Analysis:
 
 Execute the Python script to perform the credit card analysis:
 
@@ -43,13 +43,13 @@ bash
 
     View the generated graphs and insights in the output directory.
 
-File Structure
+### File Structure
 
     credit_card_analysis.py: Python script containing the analysis code.
     data/: Directory containing the credit card dataset (if applicable).
     output/: Directory to store generated visualizations and analysis results.
 
-Contributing
+### Contributing
 
 Feel free to contribute by forking the repository and creating pull requests. Contributions, suggestions, and feedback are highly appreciated.
 License

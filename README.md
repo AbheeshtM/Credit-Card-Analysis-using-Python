@@ -14,15 +14,9 @@ To run this project, ensure you have the following dependencies installed:
 
 ### Install the necessary packages via pip:
 
-bash
-
 pip install pandas matplotlib
 
 ### Usage
-
-    Clone the Repository:
-
-    bash
 
 git clone https://github.com/yourusername/credit-card-analysis.git
 cd credit-card-analysis
@@ -34,8 +28,6 @@ Ensure the required packages are installed as mentioned above.
 ### Run the Analysis:
 
 Execute the Python script to perform the credit card analysis:
-
-bash
 
     python credit_card_analysis.py
 
@@ -49,9 +41,4 @@ bash
     data/: Directory containing the credit card dataset (if applicable).
     output/: Directory to store generated visualizations and analysis results.
 
-### Contributing
 
-Feel free to contribute by forking the repository and creating pull requests. Contributions, suggestions, and feedback are highly appreciated.
-License
-
-This project is licensed under the MIT License.
